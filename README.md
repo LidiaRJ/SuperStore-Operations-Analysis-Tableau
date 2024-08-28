@@ -6,7 +6,6 @@ This was an independent project I completed consisting of a comprehensive Tablea
 The data was provided as an Excel document with sheets on Order, and Returns data.    
 
 ![image](https://github.com/user-attachments/assets/0c7c5269-de2e-48f5-8add-fbdde11bb5c5)
-![image](https://github.com/user-attachments/assets/584b8c59-597f-4473-9061-7ed13cca83ef)
 
 
 
