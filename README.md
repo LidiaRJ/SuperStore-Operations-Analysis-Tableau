@@ -9,7 +9,7 @@ The data was provided as an Excel document with sheets on Order, and Returns dat
 
 ## Files  
 - [Dataset - SuperStore.xls] (link here)
-- Readme.md 
+- Readme.md
 
 
 ## Table of Content
