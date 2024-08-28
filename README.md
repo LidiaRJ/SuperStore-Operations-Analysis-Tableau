@@ -5,7 +5,7 @@ Data analysis of an e-commerce superstore to review their operations, and provid
 This was an independent project I completed consisting of a comprehensive Tableau Workbook, comprising data analysis, data visualization, and a dashboard. 
 <br>  
 The data was provided as an Excel document with sheets on Order, and Returns data. <br>  
-<a href='https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>Tableau Public project link </u>.</a>
+<a href='https://public.tableau.com/views/2023_11_19_Project4_TB/ProfitLossCenters?:language=en-US&:display_count=n&:origin=viz_share_link' target=_blank><u>Tableau Public project link </u></a>
 
 ## Files  
 - [Dataset - SuperStore.xls](https://github.com/LidiaRJ/SuperStore-operations-analysis---Trableau/blob/main/Superstore.xls)
