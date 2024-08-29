@@ -5,7 +5,8 @@ Data analysis of an e-commerce superstore to review their operations, and provid
 This was an independent project I completed consisting of a comprehensive Tableau Workbook, comprising data analysis, data visualization, and a dashboard.<br>
 The data was provided as an Excel document with sheets on Order, and Returns data.    
 
-![image](https://github.com/user-attachments/assets/0c7c5269-de2e-48f5-8add-fbdde11bb5c5)
+![image](https://github.com/user-attachments/assets/9f3d6992-8e2c-4be4-b1e3-5a2c8b486ec4)
+
 
 
 
@@ -31,6 +32,7 @@ The data was provided as an Excel document with sheets on Order, and Returns dat
 | Returned Items | Analysis of returns ratio based on product subcategory. |
 | Customer Returns | Analysis of the top ten customers with the highest product return requests. |
 | Returns vs Profit | Prdoduc types the store should focus on based on profit vs returns rate to increase revenue and minimize loss. | 
+| Customer Returns & Profit Dashboard | Overview of the product returns related to product type, segment, and profit. |    
 
 ## Assumptions
 - Profit from sales is reaching negative values, generating losses.
